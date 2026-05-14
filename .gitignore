@@ -1,0 +1,21 @@
+# Estudo
+/estudo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Variáveis de ambiente
+.env
+.env.local
+
+## Testes
+.coverage
+htmlcov/
+.pytest_cache/
